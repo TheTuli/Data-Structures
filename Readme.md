@@ -4,7 +4,7 @@ Contains solutions to data structure problems, solved as a part of my interview 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install virtualenv and project dependencies.
 
 ```bash
 python3 -m pip install --user virtualenv
