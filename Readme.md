@@ -1,4 +1,4 @@
-# Interview Prep
+# Data-Structures
 
 Contains solutions to data structure problems, solved as a part of my interview search
 
